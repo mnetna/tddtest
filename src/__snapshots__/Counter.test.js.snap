@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`에러 없이 렌더링이 잘된다. 1`] = `ReactWrapper {}`;
